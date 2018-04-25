@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/pc-magas/ftdi_example/issues"
   },
-  "homepage": "https://github.com/pc-magas/ftdi_example#readme"
+  "homepage": "https://github.com/pc-magas/ftdi_example#readme",
+  "dependencies": {
+    "parser-readline": "^1.0.2",
+    "parser-ready": "^1.0.2",
+    "parser-regex": "^1.0.2",
+    "serialport": "^6.2.0"
+  }
 }
